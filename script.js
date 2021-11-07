@@ -1,4 +1,4 @@
-'use strict'
+ 'use strict'
 let n = +prompt ('Введите номер n-ного члена последовательности Фибоначчи');
 let f0 = 2;
 let f1 = 5;
